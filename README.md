@@ -46,27 +46,27 @@ image.thumbnail((200,200))
 
 ### Lambda Code
 
-![Lambda-Code](Screenshot/03-Lambda-Code.png)
+![Lambda-Code](Screenshots/03-Lambda-Code.png)
 
 ### S3 Trigger
 
-![S3-Trigger](Screenshot/04-S3-Trigger.png)
+![S3-Trigger](Screenshots/04-S3-Trigger.png)
 
 ### Pillow Layer
 
-![Pillow-Layer](Screenshot/05-Pillow-Layer.png)
+![Pillow-Layer](Screenshots/05-Pillow-Layer.png)
 
 ### Output Bucket
 
-![Output-Bucket](Screenshot/06-Output-Bucket.png)
+![Output-Bucket](Screenshots/06-Output-Bucket.png)
 
 ### Original-Img 
 
-![Original-Img](Screenshot/07-Original-Img.png)
+![Original-Img](Screenshots/07-Original-Img.png)
 
 ### Thumbnail-Img
 
-![Thumbnail-Img](Screenshot/08-Thumbnail-Img.png)
+![Thumbnail-Img](Screenshots/08-Thumbnail-Img.png)
 
 ---
 
